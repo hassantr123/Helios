@@ -1,0 +1,29 @@
+Metadata-Version: 2.0
+Name: gepyto
+Version: 0.10.1
+Summary: Utilities and tools to interface with genomic databases and to facilitate common bioinformatics tasks.
+Home-page: https://github.com/legaultmarc/gepyto
+Author: Marc-André Legault
+Author-email: legaultmarc@gmail.com
+License: CC BY-NC 4.0
+Keywords: bioinformatics genomics impute2 genetics variant
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Dist: PyMySQL (>=0.6.6)
+Requires-Dist: numpy (>=1.8.1)
+Requires-Dist: pandas (>=0.15)
+Requires-Dist: pyfaidx (>=0.3.4)
+Requires-Dist: requests (>=2.4.3)
+
+This package provides abstractions and utilities for common genomics tasks. It includes objects to easily fetch and organize genetic variants, query important public databases and do some basic consistency and quality checks. It is a package aimed at developers specialized in bioinformatics. 
+
+

@@ -1,0 +1,39 @@
+Metadata-Version: 2.0
+Name: forward
+Version: 0.1.0
+Summary: Tool for gene-based phenomic experiments using cohorts.
+Home-page: https://github.com/legaultmarc/forward
+Author: Marc-André Legault
+Author-email: legaultmarc@gmail.com
+License: CC BY-NC 4.0
+Keywords: bioinformatics genomics phewas epidemiology cohort
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Dist: Flask (>=0.10.0)
+Requires-Dist: Jinja2 (>=2.7.3)
+Requires-Dist: PyYAML (>=3.11)
+Requires-Dist: Pygments (>=2.0.2)
+Requires-Dist: SQLAlchemy (>=0.9.8)
+Requires-Dist: gepyto (>=0.9.2)
+Requires-Dist: h5py (>=2.5.0)
+Requires-Dist: numpy (>=1.8.1)
+Requires-Dist: pandas (>=0.15)
+Requires-Dist: patsy (>=0.4.0)
+Requires-Dist: pyplink (>=1.0.2)
+Requires-Dist: scipy (>=0.14.0)
+Requires-Dist: six (>=1.9.0)
+Requires-Dist: statsmodels (>=0.6.1)
+Requires-Dist: xlrd (>=0.9.3)
+
+This package facilitates common phenomic analyses and automates report creation and data management.
+
+

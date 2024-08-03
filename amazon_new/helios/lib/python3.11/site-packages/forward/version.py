@@ -1,0 +1,2 @@
+# THIS FILE WAS GENERATED FROM FORWARD SETUP.PY
+forward_version = "0.1.0"

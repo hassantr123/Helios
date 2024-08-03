@@ -1,0 +1,3 @@
+[console_scripts]
+forward-cli = forward.scripts.forward_cli:parse_args
+

@@ -1,0 +1,2 @@
+# THIS FILE WAS GENERATED FROM GEPYTO SETUP.PY
+gepyto_version = "0.10.1"
